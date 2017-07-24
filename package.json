@@ -1,0 +1,19 @@
+{
+  "name": "choo-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bankai index.js --debug --css -p 7000 [ -u sheetify-nested ]"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "choo": "^5.6.2",
+    "sheetify": "^6.1.0",
+    "sheetify-nested": "^1.0.2"
+  },
+  "devDependencies": {
+    "bankai": "^8.0.0"
+  }
+}
