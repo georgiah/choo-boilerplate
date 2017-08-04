@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "bankai index.js --debug --css -p 7000 [ -u sheetify-nested ]"
+    "test": "standard"
   },
   "author": "",
   "license": "ISC",
