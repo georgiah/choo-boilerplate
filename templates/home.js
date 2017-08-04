@@ -16,7 +16,7 @@ function home (state, emit) {
 
   return html`
     <div class=${style}>
-      <div>Hello world</div>
+      <div>Hello Georgia</div>
       <button onclick=${onclick}>Update name!</button>
     </div>
   `
