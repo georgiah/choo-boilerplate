@@ -1,7 +1,7 @@
 // require dependencies
 var choo = require('choo')
-//var html = require('choo/html')
-//var css = require('sheetify')
+// var html = require('choo/html')
+// var css = require('sheetify')
 
 // initialise app
 var app = choo()
